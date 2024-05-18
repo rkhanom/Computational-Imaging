@@ -48,7 +48,5 @@ Save one of the images in the compressed JPEG format and determine the lowest qu
 - Sweep over JPEG quality settings to find the lowest setting with indistinguishable compression from the original.
 - Calculate the compression ratio with respect to PNG file sizes.
 
-## Conclusion
 
-By completing these tasks, you will gain hands-on experience in HDR image processing, tone-mapping, gamma correction, and lossy compression techniques using Python. The resulting images can be used for various applications, including photography, computer graphics, and visual effects.
 
